@@ -26,7 +26,7 @@ def merge_sort(a_list):
             right_ind+=1
             alist_ind+=1
 
-alist=[6, 3, 9, 2]
+alist=[6, 3, 9, 2, 8]
 merge_sort(alist)
 print(alist)
 
